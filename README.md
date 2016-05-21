@@ -2,4 +2,4 @@
 github pages for live files.
 
 
-### [jjs88.github.io](Live site!)
+### [Live site](jjs88.github.io)
